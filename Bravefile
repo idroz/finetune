@@ -7,6 +7,7 @@ packages:
   manager: apt
   system:
    - git
+   - cmake
    - bash
    - curl
    - gcc
