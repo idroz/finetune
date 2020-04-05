@@ -17,6 +17,7 @@ packages:
    - python3-pip 
    - libopenblas-dev
    - tmux
+   - htop
 
 copy:
   - source: requirements.txt
